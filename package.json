@@ -32,6 +32,9 @@
     "uuid": "^8.3.2",
     "ws": "^8.2.0"
   },
+  "engines": {
+    "node": "6.10.x"
+  },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "dotenv-flow": "^3.2.0",
